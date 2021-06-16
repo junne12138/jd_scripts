@@ -38,8 +38,13 @@
     {"config":"15 0-23/1 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
     {"config":"0 0-16/8 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
     {"config":"15 10 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
-    {"config":"10 0-21/3 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
     
-  
+    {"config":"16 22 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
+    {"config":"0 1,21 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_star_shop.js, tag=明星小店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
+    {"config":"13 1,22 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_gold_creator.js, tag=金榜创造营, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
+   
+     {"config":"13 1,6,22 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
+    {"config":"5-45/20 * * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
+    {
  ]
 }
