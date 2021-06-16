@@ -45,6 +45,6 @@
    
      {"config":"13 1,6,22 * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
     {"config":"5-45/20 * * * * https://raw.githubusercontent.com/junne12138/jd_scripts/master/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/junne12138/jd_scripts/master/QuantumultX/lxk0301_cookies.conf"},
-    {
+    
  ]
 }
