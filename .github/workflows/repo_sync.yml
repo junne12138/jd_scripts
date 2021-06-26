@@ -1,11 +1,11 @@
 # File: .github/workflows/repo-sync.yml
-name: sync-LXK9301-scripts
+name: sync-JD-scripts
 on:
   schedule:
     - cron: '1 0,15 * * *'
   workflow_dispatch:
   repository_dispatch:
-    types: sync-LXK9301-scripts
+    types: sync-JD-scripts
 jobs:
   repo-sync:
     env:
@@ -16,10 +16,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync LXK9301-scripts
+      - name: sync-JD-scripts
         uses: repo-sync/github-sync@v2
         with:
-          source_repo: "https://github.com/chinnkarahoi/jd_scripts.git"
-          source_branch: "master"
+          source_repo: "https://github.com/JDHelloWorld/jd_scripts.git"
+          source_branch: "main"
           destination_branch: "master"
           github_token: ${{ secrets.WORKFLOW }}
