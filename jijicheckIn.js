@@ -1,5 +1,5 @@
 const $ = new Env('jijiChenkIn');
-var data = '{"email":"${{ secrets.jijiemail }}","passwd":"${{ secrets.jijipasswd }}"}'
+var data = '{"email":"${{ secrets.JIJIEMAIL }}","passwd":"${{ secrets.JIJIPASSWD }}"}'
 
     !(async () => {
 
